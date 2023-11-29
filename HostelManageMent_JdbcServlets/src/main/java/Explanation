@@ -1,0 +1,21 @@
+Project Title: Hostel Management System
+
+Overview:
+The Hostel Management System is a Java EE web application designed to facilitate efficient management of hostel-related operations.
+ Leveraging technologies such as JDBC (Java Database Connectivity) for database interactions and JSP (JavaServer Pages) for dynamic web content, 
+ the system provides a user-friendly interface for various functionalities.
+
+Key Features:
+
+Dynamic Web Pages:
+
+Utilizes JSP pages for dynamic content generation.
+Pages include features for saving data, updating records, finding records by ID, fetching all records, deleting records by ID,
+ and additional update functionalities.
+Database Connectivity:
+
+Establishes a connection to a MySQL database (jdbc:mysql://localhost:3306) using JDBC.
+The database, named jdbc_servlets_crud, stores hostel-related information.
+Usage:
+Users can interact with the system through intuitive web pages, each serving a specific function. 
+The system simplifies tasks such as data entry, retrieval, and modification, providing a seamless experience for hostel management.

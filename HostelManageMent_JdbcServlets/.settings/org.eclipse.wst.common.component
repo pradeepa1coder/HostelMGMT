@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="HostelManageMent_JdbcServlets">
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                
+        <property name="java-output-path" value="/HostelManageMent_JdbcServlets/build/classes"/>
+        <property name="context-root" value="HostelManageMent_JdbcServlets"/>
+            
+    </wb-module>
+    
+</project-modules>
